@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhijeet-rane&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-rane" />
 </p>
 
-### 🚀 Computer Engineering Student | AWS Certified Cloud Practitioner | Full-Stack Developer
-**📍 Pune, Maharashtra**
+### 🚀 Computer Engineering Student | AWS Cloud | Full-Stack Developer
 
 [cite_start]I am a highly motivated **Computer Engineering student at MIT Academy of Engineering** [cite: 73, 74] [cite_start]with a focus on building secure, scalable cloud solutions and responsive web applications[cite: 7, 8]. [cite_start]I specialize in **Java Spring Boot**, **AWS Infrastructure**, and **Cybersecurity**[cite: 7, 43].
 
