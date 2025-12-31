@@ -1,9 +1,5 @@
 # Hi there, I'm Abhijeet Rane 👋 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhijeet-rane&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-rane" />
-</p>
-
 ### 🚀 Computer Engineering Student | AWS Cloud | Full-Stack Developer
 
 I am a highly motivated **Computer Engineering student at MIT Academy of Engineering** with a focus on building secure, scalable cloud solutions and responsive web applications. I specialize in **Java Spring Boot**, **AWS Infrastructure**, and **Cybersecurity**.
