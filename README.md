@@ -13,7 +13,7 @@ I am a highly motivated **Computer Engineering student at MIT Academy of Enginee
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 ### 💻 Programming & Core
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
