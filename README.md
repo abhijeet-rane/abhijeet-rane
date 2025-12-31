@@ -8,8 +8,8 @@
 
 I am a highly motivated **Computer Engineering student at MIT Academy of Engineering** with a focus on building secure, scalable cloud solutions and responsive web applications. I specialize in **Java Spring Boot**, **AWS Infrastructure**, and **Cybersecurity**.
 
-- 💡 **Specialization:** Cloud-native architecture and Full-Stack development
-- 🔭 **Current Focus:** Deepening expertise in DevOps and AI-driven automation
+💡 **Specialization:** Cloud-native architecture and Full-Stack development
+🔭 **Current Focus:** Deepening expertise in DevOps and AI-driven automation
 
 ---
 
@@ -95,17 +95,22 @@ I am a highly motivated **Computer Engineering student at MIT Academy of Enginee
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhijeet-rane&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-rane&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Abhijeet's Stats](https://github-readme-stats.vercel.app/api?username=abhijeet-rane&show_icons=true&count_private=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-rane&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/abhijeet-rane-894106266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhijeet Rane" height="30" width="40" /></a>
-<a href="mailto:abhijeetrane204@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="abhijeetrane204@gmail.com" height="30" width="40" /></a>
-<a href="https://abhijeet-rane.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abhijeet-rane-894106266" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhijeetrane204@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://abhijeet-rane.github.io" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
