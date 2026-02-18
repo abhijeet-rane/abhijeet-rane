@@ -4,8 +4,8 @@
 
 I am a highly motivated **Computer Engineering student at MIT Academy of Engineering** with a focus on building secure, scalable cloud solutions and responsive web applications. I specialize in **Java Spring Boot**, **AWS Infrastructure**, and **Cybersecurity**.
 
-💡 **Specialization:** Cloud-native architecture and Full-Stack development
-🔭 **Current Focus:** Deepening expertise in DevOps and AI-driven automation
+💡 **Specialization:** Cloud-native architecture and Full-Stack development  
+🔭 **Current Focus:** Deepening expertise in DevOps and AI-driven automation  
 
 ---
 
@@ -28,64 +28,53 @@ I am a highly motivated **Computer Engineering student at MIT Academy of Enginee
 ### ☁️ Cloud, DevOps & Security
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Security-orange?style=for-the-badge&logo=palo-alto-networks)
 
 ---
 
-## 💼 Professional Experience
+## 🏗️ Key Projects
 
-### 🌐 Full Stack Development Intern | Campus Credentials 
-*June 2025 – August 2025*
-- **Primary Product:** Developed **ExamWizards**, a full-scale online exam portal.
-- **Backend:** Built secure REST APIs using **Java, Spring Boot, and MySQL**.
-- **Frontend:** Crafted responsive dashboards with **React.js and Tailwind CSS** for Admins, Instructors, and Students.
-- **Security:** Integrated **JWT** and API interceptors for centralized token management, reducing redundant code by 30%.
-
-### 🛠️ Networking Internship | Cisco Networking Academy
-*June 2025 – August 2025*
-- Built a **Python-based tool** to auto-generate hierarchical network topologies, reducing diagramming time by ~90%.
-- Implemented a validation engine scanning for **4+ critical network issues** like VLAN errors and loops.
-- Developed a **Flask + D3.js** interface for visual analysis and PDF report export.
-
-### ☁️ AWS Cloud Internship | AWS Academy
-*October 2024 – December 2024*
-- Designed secure cloud environments using **EC2, S3, RDS, and Lambda**.
-- Applied the **AWS Well-Architected Framework** to optimize for security, performance, and cost.
-
-### 🛡️ Cybersecurity Internships
-- **Palo Alto Networks (Virtual):** Conducted risk assessments and applied security measures in simulated environments.
-- **Cisco Networking Academy:** Mapped campus network topology and designed secure hybrid working environments using **Cisco Packet Tracer**.
+### 🏫 [SamaySetu – Intelligent Timetable Management System](https://github.com/abhijeet-rane/SamaySetu)
+- **Tech:** React.js, TypeScript, TailwindCSS, Spring Boot, Java 17, Spring Security, JWT, PostgreSQL (Supabase), AWS (EC2, ALB, Auto Scaling, CloudFront), Docker, GitHub Actions CI/CD, Nginx  
+- **Highlights:** Automated timetable generation with intelligent conflict resolution, role-based access control for 7 user types, real-time faculty/resource management, audit logging, and scalable cloud architecture with zero-downtime deployments.  
+- **Impact:** Reduced manual scheduling effort by 80% and eliminated scheduling conflicts.
 
 ---
 
-## 🏗️ Key Projects
-
 ### 🎓 [ExamWizards - Online Exam Portal](https://examwizards-frontend.onrender.com)
-- **Tech:** React, Spring Boot, Spring Security, MySQL, Docker.
-- **Features:** Timed exam interfaces, auto-evaluation engine for instant results, and role-based access control.
+- **Tech:** React, Spring Boot, Spring Security, MySQL, Docker  
+- **Features:** Timed exam interfaces, auto-evaluation engine, and role-based access control
+
+---
 
 ### 🌾 [KisanVeer - Smart Agriculture Assistant](https://bit.ly/kisanveer)
-- **Tech:** Android Development.
-- **Features:** Real-time market price updates and AI-integrated **demand forecasting** to help farmers plan crops effectively.
+- **Tech:** Android Development  
+- **Features:** Real-time market prices and AI-integrated demand forecasting
+
+---
 
 ### 🤖 [Smart ML Model Trainer & Predictor](https://smartmimodel.streamlit.app)
-- **Tech:** Python, Streamlit, Scikit-learn, Pandas.
-- **Features:** Dynamic model training on any dataset with automated preprocessing; evaluates Random Forest, Decision Tree, and Logistic Regression.
+- **Tech:** Python, Streamlit, Scikit-learn  
+- **Features:** Dynamic model training with automated preprocessing
+
+---
 
 ### 📈 [Customer Behavior Analysis](https://github.com/abhijeet-rane/Sales_Growth)
-- **Tech:** Python, NumPy, Matplotlib, K-means Clustering.
-- **Objective:** Optimized sales strategies by segmenting customers based on behavior patterns.
+- **Tech:** Python, NumPy, K-Means Clustering  
+- **Objective:** Customer segmentation for sales optimization
 
 ---
 
 ## 📜 Certifications
-- **AWS Certified Cloud Practitioner**
-- **PCAP:** Programming Essentials in Python (Cisco)
-- **Cybersecurity Essentials** (Cisco)
-- **Google Cloud Computing Foundations**
-- **Postman API Fundamentals** Student Expert
+- AWS Certified Cloud Practitioner
+- PCAP: Programming Essentials in Python (Cisco)
+- Cybersecurity Essentials (Cisco)
+- Google Cloud Computing Foundations
+- Postman API Fundamentals Student Expert
 
 ---
 
