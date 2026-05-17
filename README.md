@@ -2,7 +2,7 @@
 
 # Abhijeet Rane
 
-**Software Development Engineer · Full Stack · Cloud · AI Systems**
+**Software Development Engineer | Full Stack | Cloud | AI Systems**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhijeetrane.me-252a34?style=flat-square&logo=google-chrome&logoColor=white)](https://abhijeetrane.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-rane-894106266)
@@ -16,7 +16,7 @@
 
 Founding engineer at **ManufactureHub** — built the complete B2B SaaS manufacturing marketplace from scratch (database architecture, backend services, payment systems, React frontend, AWS infrastructure) working directly from product vision to live production system.
 
-**2x AWS Certified** · TCS CodeVita Season 13 Global Rank **6,357** · Super30 · 400+ DSA problems
+**2x AWS Certified** | TCS CodeVita Season 13 Global Rank **6,357** | Super30 | 400+ DSA problems
 
 Currently finishing B.Tech Computer Engineering at MIT Academy of Engineering, Pune (CGPA: 8.10).
 
